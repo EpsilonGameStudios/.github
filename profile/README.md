@@ -4,6 +4,8 @@
 
 Epsilon Game Studios is a game studio developing games across a variety of genres, founded by Leibyte on 14 August 2024.
 
+<br>
+
 [Website](https://sites.google.com/view/epsilongamestudios)<br>
 [Roblox Group](https://roblox.com/communities/34795490)<br>
 [Polytoria Guild](https://polytoria.com/guilds/5961)
