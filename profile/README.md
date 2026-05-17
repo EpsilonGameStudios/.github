@@ -7,6 +7,6 @@ Epsilon Game Studios is a game studio developing games across a variety of genre
 <br>
 
 [Website](https://sites.google.com/view/epsilongamestudios)<br>
-[Roblox Group](https://roblox.com/communities/34795490)<br>
+[Discord Server](https://discord.gg/q9bpSpbw6E)<br>
 [Polytoria Guild](https://polytoria.com/guilds/5961)<br>
-[Discord Server](https://discord.gg/q9bpSpbw6E)
+[Roblox Group](https://roblox.com/communities/34795490)
