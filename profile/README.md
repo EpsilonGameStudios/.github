@@ -10,4 +10,4 @@ Epsilon Game Studios is a game studio developing games across a variety of genre
 
 <br>
 
-> ### [Website](https://sites.google.com/view/epsilongamestudios)
+> ### [Website](https://epsilongamestudios.github.io/)
