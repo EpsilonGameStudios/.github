@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/8d3b7dd7-8460-4b53-ada2-b25c896dcbe3" alt="Epsilon Game Studios logo" width="450">
-
+<img src="https://github.com/user-attachments/assets/c4db7cd4-d86b-4dab-86b2-1fc7aa4262d2" alt="Epsilon Game Studios logo" width="450">
 
 
 # Welcome to Epsilon Game Studios
